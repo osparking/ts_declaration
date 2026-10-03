@@ -1,2 +1,1 @@
-console.log()
-document.getElementById()
+// 후단 정보 지원 공짜 URL: https://jsonplaceholder.typicode.com/users/1

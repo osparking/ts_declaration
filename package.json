@@ -1,0 +1,24 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "typescript study how axios, etc library is configured and used",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osparking/ts_declaration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/osparking/ts_declaration/issues"
+  },
+  "homepage": "https://github.com/osparking/ts_declaration#readme",
+  "dependencies": {
+    "axios": "^1.20.0"
+  }
+}
